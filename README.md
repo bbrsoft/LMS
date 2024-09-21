@@ -6,6 +6,8 @@ What is Tutor LMS?
 Tutor LMS is a complete, feature-packed, and robust WordPress LMS plugin to easily create & sell courses online. All the features of this learning management system hit all the checkpoints for a full-fledged online course marketplace.
 WPCS configuration
 
+![ Preview](yu.png)
+
 Step 1: Please install these two composer package.
 
 1. composer global require squizlabs/php_codesniffer
